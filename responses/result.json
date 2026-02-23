@@ -1,0 +1,74 @@
+{
+  "entities": [
+    {
+      "id": "E1",
+      "text": "ductal carcinoma in situ",
+      "type": "Diseases",
+      "standard": "",
+      "normalized_name": "ductal carcinoma in situ",
+      "confidence": 0.0
+    },
+    {
+      "id": "E2",
+      "text": "tamoxifen",
+      "type": "Drugs",
+      "standard": "",
+      "normalized_name": "tamoxifen",
+      "confidence": 0.0
+    },
+    {
+      "id": "E3",
+      "text": "letrozole",
+      "type": "Drugs",
+      "standard": "",
+      "normalized_name": "letrozole",
+      "confidence": 0.0
+    },
+    {
+      "id": "E4",
+      "text": "anastrozole",
+      "type": "Drugs",
+      "standard": "",
+      "normalized_name": "anastrozole",
+      "confidence": 0.0
+    },
+    {
+      "id": "E5",
+      "text": "exemestane",
+      "type": "Drugs",
+      "standard": "",
+      "normalized_name": "exemestane",
+      "confidence": 0.0
+    }
+  ],
+  "relations": [
+    {
+      "source": "E1",
+      "target": "E2",
+      "type": "Therapy-for",
+      "evidence": "",
+      "confidence": 0.0
+    },
+    {
+      "source": "E1",
+      "target": "E3",
+      "type": "Therapy-for",
+      "evidence": "",
+      "confidence": 0.0
+    },
+    {
+      "source": "E1",
+      "target": "E4",
+      "type": "Therapy-for",
+      "evidence": "",
+      "confidence": 0.0
+    },
+    {
+      "source": "E1",
+      "target": "E5",
+      "type": "Therapy-for",
+      "evidence": "",
+      "confidence": 0.0
+    }
+  ]
+}

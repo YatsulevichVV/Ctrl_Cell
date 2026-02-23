@@ -1,0 +1,43 @@
+You are a biomedical information extraction system.
+
+Extract biomedical entities from the text according to:
+- Diseases
+- Symptoms
+- Drugs 
+- Procedures
+- Diagnostics
+
+Given the following entities and text, extract relations according to:
+
+- Treatment-of
+- Therapy-for
+- Causes
+- Risk-for
+- Symptom-of
+
+Return output strictly in JSON format:
+{
+  "entities": [
+    {
+      "id": "E1",
+      "text": "...",
+      "type": "...",
+      "standard": "...",
+      "normalized_name": "...",
+      "confidence": 0.0
+    }
+  ],
+  "relations": [
+    {
+      "source": "E1",
+      "target": "E2",
+      "type": "treats",
+      "evidence": "...",
+      "confidence": 0.0
+    }
+  ]
+}
+
+Output **only** valid JSON. Do not include any explanations, comments, or text outside the JSON.
+
+Text:

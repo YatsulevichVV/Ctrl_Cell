@@ -1,0 +1,5 @@
+## 2.2.1.1. Stage 0 (TisN0M0), ductal carcinoma in situ
+To prevent the development of second tumors in the contralateral and resected (if breast-conserving surgery is performed) breast with positive ER in intraductal (in situ) cancer, it is recommended to consider the use of HT using one of the following regimens:
+- tamoxifen 20 mg orally daily for 5 years in pre- and postmenopausal patients;
+- tamoxifen 5 mg orally daily or 10 mg orally every other day for 3 years in pre- and postmenopausal patients in case of poor tolerance to the standard dose of tamoxifen (this is an indication not registered in the Russian Federation);
+- aromatase inhibitors (letrozole 2.5 mg or anastrozole 1 mg or exemestane 25 mg orally daily) for 5 years in patients with persistent menopause.
